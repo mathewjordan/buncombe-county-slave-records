@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mathewjordan.github.io
+
+# Sitemaps
+Sitemap: https://mathewjordan.github.io/sitemap.xml
