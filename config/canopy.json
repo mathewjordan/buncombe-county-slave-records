@@ -5,7 +5,13 @@
     "featured": [
       "https://mathewjordan.github.io/dlas-to-iiif/api/manifest/nc-bun-13-218-1.json"
     ],
-    "metadata": ["Deed Date", "Document Type", "Grantor", "Grantee", "Enslaved"]
+    "metadata": [
+      "Deed Date",
+      "Document Type",
+      "Grantors",
+      "Grantees",
+      "Enslaved"
+    ]
   },
   "dev": {
     "label": { "none": ["Buncombe County Slave Records"] },
@@ -13,6 +19,12 @@
     "featured": [
       "https://mathewjordan.github.io/dlas-to-iiif/api/manifest/nc-bun-13-218-1.json"
     ],
-    "metadata": ["Deed Date", "Document Type"]
+    "metadata": [
+      "Deed Date",
+      "Document Type",
+      "Grantors",
+      "Grantees",
+      "Enslaved"
+    ]
   }
 }
