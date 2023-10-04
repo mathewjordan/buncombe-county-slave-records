@@ -17,13 +17,6 @@ A purely IIIF sourced static site generator using Next.js. Canopy is an applicat
 - 119 items
 - Provided by Northwestern University Libraries
 
-### [William Cox Cochran Photographic Collection](https://canopy-iiif.vercel.app/)
-
-- IIIF Presentation API 3.0
-- 90 items
-- Provided by University of Tennessee Libraries
-- `navPlace` + Map
-
 ### [The Botanical photography of Alan S. Heilman](https://canopy-iiif-git-heilman-mathewjordan.vercel.app/)
 
 - IIIF Presentation API 3.0
