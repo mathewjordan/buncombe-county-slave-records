@@ -4,5 +4,18 @@
   "featured": [
     "https://mathewjordan.github.io/dlas-to-iiif/api/manifest/nc-bun-13-218-1.json"
   ],
-  "metadata": ["Deed Date", "Document Type", "Grantors", "Grantees", "Enslaved"]
+  "metadata": [
+    "Deed Date",
+    "Document Type",
+    "Grantors",
+    "Grantees",
+    "Enslaved"
+  ],
+  "theme": {
+    "defaultTheme": "dark",
+    "enableToggle": true,
+    "accentColor": "ruby",
+    "radius": "small",
+    "scaling": "110%"
+  }
 }
